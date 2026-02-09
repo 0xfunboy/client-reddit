@@ -1,0 +1,18 @@
+
+
+> @elizaos/client-reddit@0.25.6-alpha.1 build /home/funboy/eliza/packages/client-reddit
+> tsup --format esm --dts
+
+[34mCLI[39m Building entry: src/index.ts
+[34mCLI[39m Using tsconfig: tsconfig.json
+[34mCLI[39m tsup v8.3.5
+[34mCLI[39m Using tsup config: /home/funboy/eliza/packages/client-reddit/tsup.config.ts
+[34mCLI[39m Target: es2020
+[34mCLI[39m Cleaning output folder
+[34mESM[39m Build start
+[32mESM[39m [1mdist/index.js     [22m[32m49.93 KB[39m
+[32mESM[39m [1mdist/index.js.map [22m[32m112.11 KB[39m
+[32mESM[39m ⚡️ Build success in 570ms
+DTS Build start
+DTS ⚡️ Build success in 7969ms
+DTS dist/index.d.ts 5.18 KB
