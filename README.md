@@ -317,6 +317,9 @@ Behavioral principle:
 
 ## 11) Environment variables
 
+Quick start:
+- use `packages/client-reddit/.env.example.partial` as minimal copy/paste block.
+
 ### Required minimum
 - `REDDIT_CLIENT_ID`
 - `REDDIT_USERNAME`
