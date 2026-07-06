@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=client-reddit&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Eliza%20OS%20package%20compatibile%20Client%20reddit%20for%20approved%20api%20account&descAlignY=60&descSize=14" width="100%"/>
+
+<img src="https://skillicons.dev/icons?i=ts,nodejs&theme=dark" alt="Tech stack"/>
+
+</div>
+
 # @elizaos/client-reddit
 
 Production-ready Reddit client for ElizaOS with:
